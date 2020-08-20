@@ -1,12 +1,14 @@
 body{
     background:url('./imgs/road-bg.jpg');
     background-repeat:no-repeat;
-    background-size: cover;
+    background-size: auto;
+    overflow:hidden;
 }
 .road{
     display: flex;
     margin-top:450px;
     flex-direction: column;
+    overflow:hidden;
 }
 /* .r-c{
 width:220px;
