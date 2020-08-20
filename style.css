@@ -1,11 +1,18 @@
 body{
     background:url('./imgs/road-bg.jpg');
     background-repeat:no-repeat;
+    background-size: cover;
 }
 .road{
-margin-top:450px;
+    display: flex;
+    margin-top:450px;
+    flex-direction: column;
 }
-#bluecar{
-width:300px;
+/* .r-c{
+width:220px;
 height:auto;
 }
+.bus{
+margin-top:-120px;
+margin-left:280px;
+} */
