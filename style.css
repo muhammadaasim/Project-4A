@@ -6,7 +6,8 @@ body{
 }
 .road{
     display: flex;
-    margin-top:450px;
+    margin-left:-100px;
+    margin-top:430px;
     flex-direction: column;
     overflow:hidden;
 }
